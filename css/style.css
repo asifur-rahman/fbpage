@@ -1,0 +1,165 @@
+body{
+    margin: 0;
+    padding: 0;
+  
+}
+.fb{
+
+}
+.container{
+
+background: #3f69a8;
+
+overflow: hidden;
+}
+.logo{
+    float: left;width: 47%;
+    padding-left: 100px;
+    margin-top: 3px;}
+.logo img{
+    width: 31%;
+}
+
+.log-in{
+    float: left;
+}
+.log-in p{
+    color:white;
+    margin-bottom: 4px;
+    margin-top: 25px;
+}
+.log-in span p{
+    padding-left: 191px;
+    margin: 4px;
+    color: lightskyblue;
+}
+.log-in input[type="email"] {
+
+padding: 3px;
+}
+
+.log-in input[type="password"] {margin: 0 10px;padding: 3px;}
+
+.log-in input[type="submit"] {
+    color: white;
+    background: #3f69a8;
+}
+
+
+.main-body{
+
+}
+.left{
+    
+float: left;
+    
+width: 48%;
+}
+.left p{font-size: 23px;
+    text-align: left;
+    color: #0E3890;
+    font-weight: 700;
+    font-family: arial;
+    margin-left: 157px;
+    margin-top: 50px;}
+.left img{
+    padding: 42px 123px;
+}
+    
+.registration{
+    width: 40%;
+    float: left;
+    margin left: 1;
+    padding-left: 69px;
+    padding-top: 21px;
+}
+
+.registration p{
+    font-size: 20px;
+    margin: 0;
+    margin-top: 6px;
+    margin-left: 12px;
+    font-weight: 600;
+}
+.name-surname{
+    pading top: 1;
+    padding: 11px;
+    float: left;
+    width: 100%;
+}
+.name-surname input[type="name"]{
+    padding: 5px;
+    border-radius:5px;
+    width: 40%;
+    font-size: 22px;
+}
+.name-surname input[type="surname"]{
+    padding: 5px;
+    border-radius:5px;
+    margin-left: 11px;
+    width: 40%;
+    font-size: 22px;
+}
+.registration input[type="email"]{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 3px;
+    font-size: 22px;
+}
+.registration input[type="password"]{
+      width: 100%;
+      box-sizing: border-box;
+      padding: 5px;
+      margin: 10px;
+      border-radius: 5px;
+      font-size: 22px;
+}
+
+.registration span{
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.registration p span{font-size: 33px;}
+.registration input[type="radio"]{}
+.list{
+    padding: 10px;
+}
+.registration input[type="submit"]{
+    
+color: white;
+    
+background: #6dbd6d;
+    
+padding: 13px;
+    
+border-radius: 16px;
+    
+font-size: 18px;
+}
+
+.list a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 14px;
+}
+.para p{
+    font-size: 15px;
+    color: #a99f9f;
+}
+.para a{
+    text-decoration: none;
+    color: #6c6cc7;
+}
+.links{
+    float: left;
+    padding: 25px;
+
+}
+.links a{
+    padding: 10px 14px;
+    margin: 5px 9px;
+}
+
+
